@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://local.moodle.com';
-$CFG->dataroot  = '/var/moodledata';
+$CFG->dataroot  = '/var/www/html/local.moodle.com/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;

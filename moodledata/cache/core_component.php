@@ -520,10 +520,14 @@ $cache = array (
     ),
     'theme' => 
     array (
+      'aardvark' => '/var/www/html/local.moodle.com/theme/aardvark',
+      'adaptable' => '/var/www/html/local.moodle.com/theme/adaptable',
       'boost' => '/var/www/html/local.moodle.com/theme/boost',
+      'bootstrap' => '/var/www/html/local.moodle.com/theme/bootstrap',
       'bootstrapbase' => '/var/www/html/local.moodle.com/theme/bootstrapbase',
       'clean' => '/var/www/html/local.moodle.com/theme/clean',
       'more' => '/var/www/html/local.moodle.com/theme/more',
+      'roshnilite' => '/var/www/html/local.moodle.com/theme/roshnilite',
     ),
     'assignsubmission' => 
     array (
@@ -2586,6 +2590,17 @@ $cache = array (
     'search_solr_document' => '/var/www/html/local.moodle.com/search/engine/solr/classes/document.php',
     'search_solr_engine' => '/var/www/html/local.moodle.com/search/engine/solr/classes/engine.php',
     'search_solr_schema' => '/var/www/html/local.moodle.com/search/engine/solr/classes/schema.php',
+    'theme_aardvark\\core_renderer' => '/var/www/html/local.moodle.com/theme/aardvark/classes/core_renderer.php',
+    'theme_aardvark_core_renderer' => '/var/www/html/local.moodle.com/theme/aardvark/classes/core_renderer.php',
+    'theme_adaptable\\activity' => '/var/www/html/local.moodle.com/theme/adaptable/classes/activity.php',
+    'theme_adaptable\\activity_meta' => '/var/www/html/local.moodle.com/theme/adaptable/classes/activity_meta.php',
+    'theme_adaptable\\output\\core\\course_renderer' => '/var/www/html/local.moodle.com/theme/adaptable/classes/output/core/course_renderer.php',
+    'theme_adaptable\\traits\\null_object' => '/var/www/html/local.moodle.com/theme/adaptable/classes/traits/null_object.php',
+    'theme_adaptable\\traits\\single_section_page' => '/var/www/html/local.moodle.com/theme/adaptable/classes/traits/single_section_page.php',
+    'theme_adaptable\\utils' => '/var/www/html/local.moodle.com/theme/adaptable/classes/utils.php',
+    'theme_adaptable_activity' => '/var/www/html/local.moodle.com/theme/adaptable/classes/activity.php',
+    'theme_adaptable_activity_meta' => '/var/www/html/local.moodle.com/theme/adaptable/classes/activity_meta.php',
+    'theme_adaptable_utils' => '/var/www/html/local.moodle.com/theme/adaptable/classes/utils.php',
     'theme_boost\\admin_settingspage_tabs' => '/var/www/html/local.moodle.com/theme/boost/classes/admin_settingspage_tabs.php',
     'theme_boost\\autoprefixer' => '/var/www/html/local.moodle.com/theme/boost/classes/autoprefixer.php',
     'theme_boost\\output\\block_settings_renderer' => '/var/www/html/local.moodle.com/theme/boost/classes/output/block_settings_renderer.php',
@@ -2600,6 +2615,8 @@ $cache = array (
     'theme_boost_autoprefixer' => '/var/www/html/local.moodle.com/theme/boost/classes/autoprefixer.php',
     'theme_clean\\core_renderer' => '/var/www/html/local.moodle.com/theme/clean/classes/core_renderer.php',
     'theme_clean_core_renderer' => '/var/www/html/local.moodle.com/theme/clean/classes/core_renderer.php',
+    'theme_roshnilite\\core_renderer' => '/var/www/html/local.moodle.com/theme/roshnilite/classes/core_renderer.php',
+    'theme_roshnilite_core_renderer' => '/var/www/html/local.moodle.com/theme/roshnilite/classes/core_renderer.php',
     'tinymce_spellchecker\\EnchantSpell' => '/var/www/html/local.moodle.com/lib/editor/tinymce/plugins/spellchecker/classes/EnchantSpell.php',
     'tinymce_spellchecker\\GoogleSpell' => '/var/www/html/local.moodle.com/lib/editor/tinymce/plugins/spellchecker/classes/GoogleSpell.php',
     'tinymce_spellchecker\\PSpell' => '/var/www/html/local.moodle.com/lib/editor/tinymce/plugins/spellchecker/classes/PSpell.php',
@@ -3123,9 +3140,13 @@ $cache = array (
       ),
       'theme' => 
       array (
+        'aardvark' => '/var/www/html/local.moodle.com/theme/aardvark/lib.php',
+        'adaptable' => '/var/www/html/local.moodle.com/theme/adaptable/lib.php',
         'boost' => '/var/www/html/local.moodle.com/theme/boost/lib.php',
+        'bootstrap' => '/var/www/html/local.moodle.com/theme/bootstrap/lib.php',
         'clean' => '/var/www/html/local.moodle.com/theme/clean/lib.php',
         'more' => '/var/www/html/local.moodle.com/theme/more/lib.php',
+        'roshnilite' => '/var/www/html/local.moodle.com/theme/roshnilite/lib.php',
       ),
       'assignsubmission' => 
       array (
@@ -3452,9 +3473,12 @@ $cache = array (
       ),
       'theme' => 
       array (
+        'aardvark' => '/var/www/html/local.moodle.com/theme/aardvark/settings.php',
+        'adaptable' => '/var/www/html/local.moodle.com/theme/adaptable/settings.php',
         'boost' => '/var/www/html/local.moodle.com/theme/boost/settings.php',
         'clean' => '/var/www/html/local.moodle.com/theme/clean/settings.php',
         'more' => '/var/www/html/local.moodle.com/theme/more/settings.php',
+        'roshnilite' => '/var/www/html/local.moodle.com/theme/roshnilite/settings.php',
       ),
       'assignsubmission' => 
       array (

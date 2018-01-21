@@ -615,6 +615,12 @@
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
+    'theme_adaptable/userdata' => 
+    array (
+      'mode' => 2,
+      'component' => 'theme_adaptable',
+      'area' => 'userdata',
+    ),
   ),
   'definitionmappings' => 
   array (

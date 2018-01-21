@@ -1,0 +1,10 @@
+s:416:"<p>Sube imágenes, añade enlaces y descripciones en las dispositivas de la presentación de la página de inicio.</p>
+
+<p>Ejemplo HTML para el texto de las diapositivas:</p>
+
+<pre>
+&lt;div class="span6 col-sm-6"&gt;
+&lt;h3&gt;Hecho a mano&lt;/h3&gt; &lt;h4&gt;pixels y código para la comunidad Moodle&lt;/h4&gt;
+&lt;a href="#" class="submit"&gt;Por favor, haz Adaptable uno de tus temas favoritos&lt;/a&gt;
+</pre>
+";
