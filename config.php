@@ -18,8 +18,8 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_unicode_ci',
 );
 
-$CFG->wwwroot   = 'http://local.moodle.com';
-$CFG->dataroot  = '/var/www/html/local.moodle.com/moodledata';
+$CFG->wwwroot   = 'https://moodle.cristhoperdev.com';
+$CFG->dataroot  = '/var/www/html/moodle.cristhoperdev.com/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
